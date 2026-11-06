@@ -1,7 +1,5 @@
 # km04-05-thabo-corner-store
 
-# KM-04 + KM-05 Integrated Project Package
-
 **Thabo's Corner Store — Sales Insights System**
 Occupational Certificate: Artificial Intelligence Software Developer · NQF Level 4
 
@@ -10,13 +8,13 @@ covering KM-04 (Data & Databases) and KM-05 (Programming & Python).
 
 ## What's in this package
 
-| File / Folder | Purpose |
-|---|---|
-| `Project_Brief_and_Instructions.docx` | The full project brief: scenario, tasks, resources, submission steps and marking rubric. **Give this to students first.** |
-| `GitHub_and_VSCode_Setup_Guide.docx` | A step-by-step guide for students to create a GitHub account, install Git, connect VS Code, and push their project as evidence. |
-| `data/products.csv` | Raw product data (14 products), with deliberate data-quality issues for students to clean. |
-| `data/sales.csv` | Raw sales transaction data (71 records), with deliberate data-quality issues for students to clean. |
-| `starter_code/` | A Python project scaffold (five modules + main.py) with docstrings and TODO comments, but no solved logic — this is the students' starting point, not a solution. |
+| File / Folder                         | Purpose                                                                                                                                                           |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Project_Brief_and_Instructions.docx` | The full project brief: scenario, tasks, resources, submission steps and marking rubric. **Give this to students first.**                                         |
+| `GitHub_and_VSCode_Setup_Guide.docx`  | A step-by-step guide for students to create a GitHub account, install Git, connect VS Code, and push their project as evidence.                                   |
+| `data/products.csv`                   | Raw product data (14 products), with deliberate data-quality issues for students to clean.                                                                        |
+| `data/sales.csv`                      | Raw sales transaction data (71 records), with deliberate data-quality issues for students to clean.                                                               |
+| `starter_code/`                       | A Python project scaffold (five modules + main.py) with docstrings and TODO comments, but no solved logic — this is the students' starting point, not a solution. |
 
 ## Distributing this to students
 
